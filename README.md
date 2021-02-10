@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **discord.py**
 
-- 📫 How to reach me **Email - sakshham@gmail.com, Discord - SakshhamTheGamer#9153**
+- 📫 How to reach me **Email - sakshhamtg@gmail.com, Discord - SakshhamTheGamer#9153**
 
 - ⚡ Fun fact **I love Coding, Games, Chess, and Music production**
 
