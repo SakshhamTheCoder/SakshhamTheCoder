@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [my discord bot - SabreBOT](https://github.com/SakshhamTheCoder/SabreBOT)
 
-- 🌱 I’m currently learning **Python, Web Development, Discord.py**
+- 🌱 I’m currently learning **Python, Web Development, Kotlin, DiscordAPI, Android Development, GUI development**
 
-- 🤝 I’m looking for help with **discord.py**
+- 🤝 I’m looking for help with **nothing lol. I want to learn everything myself**
 
 - 📫 How to reach me **Email - sakshhamtg@gmail.com, Discord - SakshhamTheGamer#9153**
 
