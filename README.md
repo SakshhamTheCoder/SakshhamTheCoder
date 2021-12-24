@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Email - sakshhamtg@gmail.com, Discord - SakshhamTheGamer#9153**
 
-- ⚡ Fun fact **I love Coding, Games, Chess, and Making Music**
+- ⚡ Fun fact **I love to do many other things like, Gaming, Playing Chess, Making Music, Photo Editing and Thumbnail Editing, Video Editing and much more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
