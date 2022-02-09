@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my discord bot - SabreBOT](https://github.com/SakshhamTheCoder/SabreBOT)
 
-- 🌱 I’m currently learning **Python, Web Development, Kotlin, DiscordAPI, Android Development, GUI development**
+- 🌱 I’m currently learning **Flutter App Development, Python, Web Development, Kotlin, Discord API, Android Development, GUI development**
 
 - 🤝 I’m looking for help with **nothing lol. I want to learn everything myself**
 
