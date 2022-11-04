@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshhamthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshhamthecoder" /> </p>
 
-- 🔭 I’m currently working on my Discord Bot - Sbotify and on [GDMUN'22 Website](https://gdmun2022.gdgoenkajammu.org/) (psst. Registrations are open)
+- 🔭 I’m currently working on my Discord Bot - Sbotify and on [GDMUN'22 Website](https://gdmun2022.gdgoenkajammu.org/) (Registerations closed tho)
 
-- 🌱 I’m currently learning **C#, WinRT API, Flutter App Development, Python, Web Development, Kotlin, Discord API, Android Development, GUI development**
+- 🌱 I’m currently learning **C#, WinRT API, Flutter App Development, Python, Web Development, Kotlin, Discord API and Android Development**
 
 - 🤝 I’m looking for help with **nothing lol. I want to learn everything myself**
 
