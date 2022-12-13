@@ -2,6 +2,8 @@
     <a href="https://sakshhamthecoder.github.io">
         <img src="gh_banner.png">
     </a>
+</p>
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=sakshhamthecoder&label=Profile%20views&color=ff91d6&style=flat " /> 
     <img src="https://img.shields.io/github/followers/sakshhamthecoder?color=black&style=social" /> 
     <img src="https://img.shields.io/github/stars/sakshhamthecoder?style=social" /> 
@@ -11,6 +13,7 @@
 </p>
 
 ---
+
 <br>
 
 
@@ -21,7 +24,6 @@
 
 <h2>🌀 About Me </h2>
 
-<blockquote>
 <br>
 
 ```python
@@ -56,32 +58,18 @@ sakshham: STG = {
     ],
 }
 ```
-<br>
-</blockquote>
 
----
-
-<br>
 <h2>💻 Workspace Specs </h2>
 
-<blockquote>
 <br>
 
-[![](https://img.shields.io/badge/Windows-Dell_G3_3500-0078D6?style=for-the-badge&logo=windows&logoColor=white)](google.com)
+![](https://img.shields.io/badge/Windows-Dell_G3_3500-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-[![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](google.com)
 
-[![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](google.com)
-
-<br>
-</blockquote>
-
----
-
-<br>
 <h2>👋 Contact Me </h2>
 
-<blockquote>
 <br>
 
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sakshhamthecoder.github.io/)
@@ -92,7 +80,4 @@ sakshham: STG = {
 [![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sakshhamthegamer)
 [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14649187/sakshhamthecoder)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKL3OhXxXXoM6bNStopEUWA)
-
-<br>
-</blockquote>
 
