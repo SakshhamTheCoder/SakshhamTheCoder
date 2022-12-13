@@ -1,26 +1,98 @@
-<h1 align="center">Hi 👋, I'm Sakshham Bhagat</h1>
-<h3 align="center">A Curious Coder from Jammu, India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshhamthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="sakshhamthecoder" /> </p>
-
-- 🔭 I’m currently working on my Discord Bot - Sbotify and on [GDMUN'22 Website](https://gdmun2022.gdgoenkajammu.org/) (Registerations closed tho)
-
-- 🌱 I’m currently learning **C#, WinRT API, Flutter App Development, Python, Web Development, Kotlin, Discord API and Android Development**
-
-- 🤝 I’m looking for help with **nothing lol. I want to learn everything myself**
-
-- 📫 How to reach me **Email - sakshhamtg@gmail.com, Discord - SakshhamTheGamer#9153**
-
-- ⚡ Fun fact **I love to do many other things like, Gaming, Playing Chess, Making Music, Photo Editing and Thumbnail Editing, Video Editing and much more**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/14649187" target="blank"><img align="center" src="stack.svg" alt="14649187" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iamsakshham_28/" target="blank"><img align="center" src="instagram.svg" alt="@sakshhamthegamer_28" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCG2k5jn937qsFiNDpvQvgCQ" target="blank"><img align="center" src="youtube.svg" alt="skshhm, mithu, sakshham bhagat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCG7-J2y1mItTo0JttKnakRg" target="blank"><img align="center" src="youtube.svg" alt="skshhm, mithu, sakshham bhagat" height="30" width="40" /></a>
+<p align="center">
+    <a href="https://sakshhamthecoder.github.io">
+        <img src="gh_banner.png">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=sakshhamthecoder&label=Profile%20views&color=ff91d6&style=flat " /> 
+    <img src="https://img.shields.io/github/followers/sakshhamthecoder?color=black&style=social" /> 
+    <img src="https://img.shields.io/github/stars/sakshhamthecoder?style=social" /> 
+    <img src="https://img.shields.io/twitter/follow/IamSakshham_28?label=Followers&style=social" /> 
+    <img src="https://img.shields.io/twitch/status/sakshhamthegamer?label=Status&style=social" /> 
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCKL3OhXxXXoM6bNStopEUWA?style=social" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-<p>BYE!</p>
+---
+<br>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SakshhamTheCoder&count_private=true&hide=contribs&show_icons=true&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe"/>
+
+<br>
+
+<h2>🌀 About Me </h2>
+
+<blockquote>
+<br>
+
+```python
+sakshham: STG = {
+    pronouns: "he" or "him",
+    location: "Jammu, Jammu & Kashmir, India",
+    student: True,
+    languages: [
+        "Python",
+        "Java",
+        "Javascript",
+        "Kotlin",
+        "Dart",
+        "C#"
+    ],
+    frameworks: [
+        "Android",
+        "Flutter",
+        "React",
+        "Discord",
+        "MySQL",
+        "Selenium",
+        "Bootstrap"
+    ], 
+    other_skills: [
+        "Gaming",
+        "Chess",
+        "Music Production",
+        "Cycling",
+        "Photo/Video Editing",
+        "Designing"
+    ],
+}
+```
+<br>
+</blockquote>
+
+---
+
+<br>
+<h2>💻 Workspace Specs </h2>
+
+<blockquote>
+<br>
+
+[![](https://img.shields.io/badge/Windows-Dell_G3_3500-0078D6?style=for-the-badge&logo=windows&logoColor=white)](google.com)
+
+[![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](google.com)
+
+[![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](google.com)
+
+<br>
+</blockquote>
+
+---
+
+<br>
+<h2>👋 Contact Me </h2>
+
+<blockquote>
+<br>
+
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sakshhamthecoder.github.io/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamsakshham_28/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamsakshham_28)
+[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SakshhamTheGamer/)
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dwfi2gnrcbj8ly18nr513qcxh)
+[![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sakshhamthegamer)
+[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14649187/sakshhamthecoder)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKL3OhXxXXoM6bNStopEUWA)
+
+<br>
+</blockquote>
+
