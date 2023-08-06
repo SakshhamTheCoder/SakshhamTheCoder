@@ -38,6 +38,8 @@ sakshham: STG = {
         "Kotlin",
         "Dart",
         "PHP",
+        "C",
+        "C++",
         "C#"
     ],
     frameworks: [
