@@ -31,7 +31,7 @@ sakshham: STG = {
     pronouns: "he" or "him",
     location: "Jammu, Jammu & Kashmir, India",
     student: True,
-    education: "Thapar Institute of Engineering & Technology, Patiala, Punjab, India"
+    education: "Thapar Institute of Engineering & Technology, Patiala, Punjab, India",
     languages: [
         "Python",
         "Java",
