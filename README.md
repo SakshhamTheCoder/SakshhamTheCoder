@@ -69,10 +69,10 @@ sakshham: STG = {
 
 <br>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=cowin_certificate_downloader_app&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe)](https://github.com/SakshhamTheCoder/cowin_certificate_downloader_app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=gdmun2022-website&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe)](https://github.com/SakshhamTheCoder/gdmun2022-website)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=flutter_youtube_downloader&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe)](https://github.com/SakshhamTheCoder/flutter_youtube_downloader)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=eventopia-ft-thapar&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe)](https://github.com/SakshhamTheCoder/eventopia-ft-thapar)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=cowin_certificate_downloader_app&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/cowin_certificate_downloader_app)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=gdmun2022-website&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/gdmun2022-website)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=flutter_youtube_downloader&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/flutter_youtube_downloader)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=thapar_class_checker&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/eventopia-ft-thapar)
 
 <h2>💻 Workspace Specs </h2>
 
