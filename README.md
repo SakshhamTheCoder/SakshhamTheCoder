@@ -1,99 +1,216 @@
 <p align="center">
-    <a href="https://sakshhamthecoder.github.io">
-        <img src="gh_banner.png">
-    </a>
+  <a href="https://sakshhamthecoder.vercel.app">
+    <img src="gh_banner.png" alt="Sakshham Bhagat Banner" width="60%" />
+  </a>
 </p>
+
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sakshhamthecoder&label=Profile%20views&color=ff91d6&style=flat " /> 
-    <img src="https://img.shields.io/github/followers/sakshhamthecoder?color=black&style=social" /> 
-    <img src="https://img.shields.io/github/stars/sakshhamthecoder?style=social" /> 
-    <img src="https://img.shields.io/twitter/follow/IamSakshham_28?label=Followers&style=social" /> 
-    <img src="https://img.shields.io/twitch/status/sakshhamthegamer?label=Status&style=social" /> 
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCKL3OhXxXXoM6bNStopEUWA?style=social" /> 
+  <b>Full Stack Developer</b> building real-world web, mobile, and developer tooling systems used by startups, institutions, and open-source communities. I have worked on products used by <b>1500+ users</b>, institutional systems serving <b>50+ scholars & faculty</b>, and platforms processing <b>₹70K+ in real transactions</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/SakshhamTheCoder?style=social" />
+  <img src="https://img.shields.io/github/stars/SakshhamTheCoder?style=social" />
 </p>
 
 ---
 
-<br>
+## About Me
 
+- 🎓 Computer Engineering student at **Thapar Institute of Engineering & Technology**
+- 🚀 Full Stack Developer building products across **web, mobile, backend, and cloud**
+- 🛠️ Experienced with **React, Flutter, Go, Django, Node.js, PostgreSQL, Redis, Docker, Firebase, and GCP**
+- 🚢 Experience shipping production systems, app-store releases, and cloud deployments
+- 🎵 Producing **EDM music for 7+ years** using FL Studio
+
+---
+
+## Impact
+
+- 👥 **1500+ users** across shipped products
+- 🎓 **50+ scholars & faculty** using institutional systems
+- 💸 **₹70K+** processed through deployed platforms
+- ⭐ **75+ GitHub stars** on open-source tooling
+- 📦 Distribution through **Homebrew, Scoop, and Winget**
+
+---
+
+## What I Like Building
+
+- ⚡ Developer tools and automation systems
+- 📱 Cross-platform apps and backend infrastructure
+- 🏫 Internal platforms and institutional software
+- 🐧 Linux tooling, self-hosting, and developer environments
+
+---
+
+## Some of my Work
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ADBT
+
+Modern Android Debug Bridge TUI in **Go** with **75+ GitHub stars**, distributed through **Homebrew, Scoop, and Winget**.
+
+**Stack**  
+Go • CLI • TUI • GitHub Actions
+
+</td>
+
+<td width="50%" valign="top">
+
+### Zyber
+
+Built for an early-stage startup, deployed across **Android & iOS**, currently serving **1500+ users**.
+
+**Stack**  
+Flutter • Go • Redis • PostgreSQL • WebSockets
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### PhD Progress Monitoring Portal
+
+Institutional platform serving **50+ scholars & faculty**, extended with research workflows and publication systems.
+
+**Stack**  
+Laravel • React • Flutter • MySQL • NGINX
+
+</td>
+
+<td width="50%" valign="top">
+
+### CCS Merch Store
+
+Production e-commerce platform handling **₹70K+ across 150+ orders** with payment and delivery systems.
+
+**Stack**  
+Django REST • React • PostgreSQL • Docker • GCP
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Open Source
+
+- Built **ADBT**, a modern Android Debug Bridge TUI written in **Go**
+- Distributed tooling through **Homebrew**, **Scoop**, and **Winget**
+- Building developer utilities, automation tools, and productivity-focused systems
+- Open-source contributor across developer tooling and ecosystem projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/Django-000?style=for-the-badge&logo=django" />
+  <img src="https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/NGINX-000?style=for-the-badge&logo=nginx" />
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=googlecloud" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions" />
+</p>
+
+---
+
+## Community & Achievements
+
+- 🏆 **Flipkart GRID 7.0 Semi-Finalist**
+- 🏆 **ZS Campus Beats Tech Challenge** — Top 100 Teams Nationwide
+- 👨‍💻 **PRISM Intern** at Samsung R&D Institute India
+- 👨‍🏫 **Former Associate App Development Mentor** at GDSC TIET
+- 💻 **Former Core Member** at Creative Computing Society (CCS), TIET
+- 🎯 Co-organized **HackTU 6.0 MLH Hackathon** and **Syrinx CTF**
+
+---
+
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SakshhamTheCoder&count_private=true&hide=contribs&show_icons=true&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe"/>
+        <img
+          src="https://github-stats-extended.vercel.app/api?username=SakshhamTheCoder&rank_icon=default&hide_rank=true&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&ring_color=58A6FF&border_radius=8"
+          width="500"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-stats-extended.vercel.app/api/top-langs?username=SakshhamTheCoder&layout=donut-vertical&langs_count=8&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=14"
+          width="260"
+        />
+</p>
 
-<br>
+---
 
-<h2>🌀 About Me </h2>
+## Beyond Code
 
-<br>
+Outside software, I’ve been producing **EDM music for 7+ years** using FL Studio and enjoy sound design, audio engineering, and building immersive creative experiences.
 
-```python
-sakshham: STG = {
-    pronouns: "he" or "him",
-    location: "Jammu, Jammu & Kashmir, India",
-    student: True,
-    education: "Thapar Institute of Engineering & Technology, Patiala, Punjab, India",
-    languages: [
-        "Python",
-        "Java",
-        "Javascript",
-        "Kotlin",
-        "Dart",
-        "PHP",
-        "C",
-        "C++",
-        "C#"
-    ],
-    frameworks: [
-        "Android",
-        "Flutter",
-        "React",
-        "Discord",
-        "MySQL",
-        "Selenium",
-        "Bootstrap"
-    ], 
-    other_skills: [
-        "Gaming",
-        "Chess",
-        "Music Production",
-        "Cycling",
-        "Photo/Video Editing",
-        "Designing"
-    ],
-}
-```
+Things I enjoy:
 
-<br>
+- 🎵 Music production & sound design
+- 🐧 Linux customization and Hyprland setups
+- ⚡ Building tools that solve annoying real-world problems
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshhamthecoder&hide=c%2B%2B,HTML,CSS,CMake&layout=compact&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&custom_title=Most%20Used%20Languages%20on%20Github&card_width=400)
+---
 
-<br>
+## Connect With Me
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=cowin_certificate_downloader_app&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/cowin_certificate_downloader_app)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=portanote-web&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/portanote-web)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=flutter_youtube_downloader&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/flutter_youtube_downloader)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=sakshhamthecoder&repo=portanote-app&theme=midnight-purple&border_radius=20&border_color=e8defe&title_color=ff91d6&ring_color=e8ddfe&description_lines_count=3)](https://github.com/SakshhamTheCoder/portanote-app)
+<p align="center">
+  <a href="https://sakshhamthecoder.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
-<h2>💻 Workspace Specs </h2>
+  <a href="https://linkedin.com/in/sakshhamthecoder">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<br>
-
-![](https://img.shields.io/badge/Windows-Dell_G3_3500-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-
-<h2>👋 Contact Me </h2>
-
-<br>
-
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sakshhamthecoder.github.io/)
-
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iamsakshham_28/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamsakshham_28)
-[![](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/SakshhamTheGamer/)
-[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dwfi2gnrcbj8ly18nr513qcxh)
-[![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/sakshhamthegamer)
-[![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14649187/sakshhamthecoder)
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKL3OhXxXXoM6bNStopEUWA)
-
+  <a href="mailto:sakshhamb28@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
