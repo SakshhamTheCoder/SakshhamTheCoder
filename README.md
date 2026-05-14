@@ -32,7 +32,7 @@
 - 🚀 Full Stack Developer building products across **web, mobile, backend, and cloud**
 - 🛠️ Working with **React, Flutter, Go, Django, Node.js, PostgreSQL, Redis, Docker, Firebase, and GCP**
 - 📈 Built systems used by **1500+ users**, institutional platforms serving **50+ scholars & faculty**, processed **₹70K+ in transactions**, and open-source tooling with **75+ GitHub stars**
-- 📦 Shipped production systems across **cloud, CI/CD, app stores, Homebrew, Scoop, and Winget**
+- 📦 Shipped production systems across **cloud, CI/CD, app stores, Homebrew, Scoop, and AUR**
 - ⚡ Interested in **developer tools, backend systems, internal platforms, and Linux tooling**
 - 🎵 Producing **EDM music for 7+ years** using FL Studio
 
@@ -47,7 +47,7 @@
 
 ### ADBT
 
-Modern Android Debug Bridge TUI in **Go** with **75+ GitHub stars**, distributed through **Homebrew, Scoop, and Winget**.
+Modern Android Debug Bridge TUI in **Go** with **75+ GitHub stars**, distributed through **Homebrew, Scoop, and AUR**.
 
 **Stack**  
 Go • CLI • TUI • GitHub Actions
