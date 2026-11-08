@@ -3,6 +3,9 @@ user: SakshhamTheCoder
 # Two rows of two cards: numbers and languages, then open source and weekly rhythm.
 show: [summary, languages, contributions, weekly]
 
+count:
+  extraRepos: [Ergane-Foundation/adbt]   # ADBT lives in an organization, so GitHub does not count its stars as mine
+
 look:
   style: classic   # GitHub's own look, follows the viewer's light or dark theme
   color: blue

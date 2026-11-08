@@ -1,5 +1,6 @@
 # README cards, see https://github.com/pedrocatalao/github-cool-readme
-# The action is pinned to the v1.6.0 commit: it receives CARDS_TOKEN, so it must not change underneath this repo.
+# The action is a fork of the above (v1.6.0 plus count.extraRepos, see cool-readme.yml), pinned to a commit:
+# it receives CARDS_TOKEN, so it must not change underneath this repo.
 name: Update README cards
 
 on:
@@ -19,7 +20,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - uses: pedrocatalao/github-cool-readme@4b5612f2aa2da65cc4012b3fb006b646abb33cf0 # v1.6.0
+      - uses: SakshhamTheCoder/github-cool-readme@006beb0ebde1b1611ff05d314035c75aafd9ce11 # upstream v1.6.0 + count.extraRepos
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
