@@ -139,27 +139,24 @@ Django REST • React • PostgreSQL • Docker • GCP
 ## GitHub Stats
 
 <p align="center">
-<table>
-<tr>
-<td align="center">
-
-<img
-src="https://github-stats-extended.vercel.app/api?username=SakshhamTheCoder&rank_icon=default&hide_rank=true&show=prs_merged,prs_merged_percentage&show_icons=true&include_all_commits=true&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&icon_color=8B949E&ring_color=58A6FF&border_radius=8"
-width="380"
-/>
-
-</td>
-
-<td align="center">
-
-<img
-src="https://github-stats-extended.vercel.app/api/top-langs?username=SakshhamTheCoder&layout=donut-vertical&langs_count=8&theme=transparent&border_color=30363D&title_color=58A6FF&text_color=C9D1D9&border_radius=14"
-width="200"
-/>
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/languages-light.svg" width="400" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/contributions-light.svg" width="400" alt="Notable contributions">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/SakshhamTheCoder/SakshhamTheCoder/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
+</picture>
 </p>
 
 ---
