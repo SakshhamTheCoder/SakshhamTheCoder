@@ -1,0 +1,18 @@
+user: SakshhamTheCoder
+
+# Two rows of two cards: numbers and languages, then open source and weekly rhythm.
+show: [summary, languages, contributions, weekly]
+
+look:
+  style: classic   # GitHub's own look, follows the viewer's light or dark theme
+  color: blue
+  border: true
+
+cards:
+  summary:
+    title: GitHub stats
+    ring: github
+  languages:
+    count: 6
+  contributions:
+    count: 6
