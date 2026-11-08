@@ -18,5 +18,11 @@ cards:
   languages:
     count: 5       # 5 + "Other" = 6 rows, so the card is the same height as the others
   contributions:
-    count: 3       # 3 fit on the card at once; more would scroll past
-    pin: [tw93/Mole, vitejs/awesome-vite, MicrosoftStudentChapter/time-table]
+    # Exactly the pinned repos are shown (count = number of pins), so anything else never appears.
+    count: 5       # 3 in view at a time, the rest scroll past
+    pin:
+      - tw93/Mole
+      - vitejs/awesome-vite
+      - MicrosoftStudentChapter/time-table
+      - lamergameryt/AllenVideoDownloader
+      - ARNAVVGUPTAA/Qshare
