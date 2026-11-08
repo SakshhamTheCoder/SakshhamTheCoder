@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Full Stack Developer</b> building real-world web, mobile, and developer tooling systems used by startups, institutions, and open-source communities. Worked on products used by <b>1500+ users</b>, institutional systems serving <b>50+ scholars & faculty</b>, and platforms processing <b>₹70K+ in real transactions</b>.
+  <b>Full Stack Developer</b> building real-world web, mobile, and developer tooling systems used by startups, institutions, and open-source communities. Worked on products used by <b>4,100+ users</b>, institutional systems serving <b>1000+ scholars & faculty</b>, and platforms processing <b>₹70K+ in real transactions</b>.
 </p>
 
 <p align="center">
@@ -29,9 +29,10 @@
 ## About Me
 
 - 🎓 Computer Engineering student at **Thapar Institute of Engineering & Technology**
+- 🔬 Student Research Intern at **Thapar University**, building the frontend for a genetic-algorithm timetable system
 - 🚀 Full Stack Developer building products across **web, mobile, backend, and cloud**
 - 🛠️ Working with **React, Flutter, Go, Django, Node.js, PostgreSQL, Redis, Docker, Firebase, and GCP**
-- 📈 Built systems used by **1500+ users**, institutional platforms serving **50+ scholars & faculty**, processed **₹70K+ in transactions**, and open-source tooling with **75+ GitHub stars**
+- 📈 Built systems used by **4,100+ users**, institutional platforms serving **1000+ scholars & faculty**, processed **₹70K+ in transactions**, and open-source tooling with **90+ GitHub stars**
 - 📦 Shipped production systems across **cloud, CI/CD, app stores, Homebrew, Scoop, and AUR**
 - ⚡ Interested in **developer tools, backend systems, internal platforms, and Linux tooling**
 - 🎵 Producing **EDM music for 7+ years** using FL Studio
@@ -47,7 +48,7 @@
 
 ### ADBT
 
-Modern Android Debug Bridge TUI in **Go** with **75+ GitHub stars**, distributed through **Homebrew, Scoop, and AUR**.
+Modern Android Debug Bridge TUI in **Go** with **90+ GitHub stars**, distributed through **Homebrew, Scoop, and AUR**.
 
 **Stack**  
 Go • CLI • TUI • GitHub Actions
@@ -58,7 +59,7 @@ Go • CLI • TUI • GitHub Actions
 
 ### Zyber
 
-Shipped a social-networking app for an early-stage startup, deployed across **Android & iOS**, currently serving **1500+ users**.
+Built a social-networking app from scratch as an SDE intern at an early-stage startup, shipped on **Android & iOS** and now at **4,100+ users**.
 
 **Stack**  
 Flutter • Go • Redis • PostgreSQL • WebSockets
@@ -73,7 +74,7 @@ Flutter • Go • Redis • PostgreSQL • WebSockets
 
 ### PhD Progress Monitoring Portal
 
-Institutional platform serving **50+ scholars & faculty**, extended with research workflows and publication systems.
+Institutional platform serving **1000+ scholars & faculty**, covering the whole PhD department, extended with research workflows and publication systems.
 
 **Stack**  
 Laravel • React • Flutter • MySQL • NGINX
@@ -126,9 +127,10 @@ Django REST • React • PostgreSQL • Docker • GCP
 ## Community & Achievements
 
 - 🏆 **Flipkart GRID 7.0 Semi-Finalist**
-- 🏆 **ZS Campus Beats Tech Challenge** — Top 100 Teams Nationwide
+- 🏆 **ZS Campus Beats Tech Challenge**: Top 100 Teams Nationwide
+- 📜 **Xebia** certifications: MERN Secure Auth (2025), Monolith to Microservices (2026)
 - 👨‍💻 **PRISM Intern** at Samsung R&D Institute India
-- 👨‍🏫 **Former Associate App Development Mentor** at GDSC TIET
+- 👨‍🏫 **Former Associate App Development Mentor** at GDSC TIET, mentoring students in Flutter across 3 cohorts
 - 💻 **Former Core Member** at Creative Computing Society (CCS), TIET
 - 🎯 Co-organized **HackTU 6.0 MLH Hackathon** and **Syrinx CTF**
 
@@ -165,3 +167,5 @@ width="200"
 ## Beyond Code
 
 Outside software, I have been producing **EDM music for 7+ years** using FL Studio, with a strong interest in **sound design, audio engineering, and creative workflows**. I also enjoy **Linux customization, Hyprland setups, and building tools that solve annoying real-world problems**.
+
+Also visit: [SKSHHM music](https://skshhm.vercel.app)
