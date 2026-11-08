@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: '17 */6 * * *'   # every 6 hours
   workflow_dispatch:
+  push:            # a change to the settings redraws the cards right away
+    branches: [main]
+    paths: [cool-readme.yml, .github/workflows/cool-readme.yml]
 
 permissions:
   contents: write

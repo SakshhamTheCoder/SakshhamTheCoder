@@ -13,6 +13,7 @@ cards:
     title: GitHub stats
     ring: github
   languages:
-    count: 6
+    count: 5       # 5 + "Other" = 6 rows, so the card is the same height as the others
   contributions:
-    count: 6
+    count: 3       # 3 fit on the card at once; more would scroll past
+    pin: [tw93/Mole, vitejs/awesome-vite, MicrosoftStudentChapter/time-table]
